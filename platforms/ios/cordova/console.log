@@ -1,0 +1,16 @@
+2014-09-03 20:24:13.181 photon[10449:80b] Multi-tasking -> Device: YES, App: YES
+2014-09-03 20:24:13.203 photon[10449:80b] Unlimited access to network resources
+2014-09-03 20:24:13.467 photon[10449:80b] [CDVTimer][keyboard] 0.060976ms
+2014-09-03 20:24:13.468 photon[10449:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-09-03 20:24:13.468 photon[10449:80b] [CDVTimer][statusbar] 0.427008ms
+2014-09-03 20:24:13.468 photon[10449:80b] [CDVTimer][TotalPluginStartup] 1.359046ms
+2014-09-03 20:24:13.657 photon[10449:80b] Resetting plugins due to page load.
+2014-09-03 20:24:13.855 photon[10449:80b] Finished load of: file:///Users/twer/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/5564FF44-17CC-438B-9E84-677846813BBC/photon.app/www/index.html#/tab/dash
+2014-09-03 20:37:52.836 photon[10959:80b] Multi-tasking -> Device: YES, App: YES
+2014-09-03 20:37:52.842 photon[10959:80b] Unlimited access to network resources
+2014-09-03 20:37:52.859 photon[10959:80b] [CDVTimer][keyboard] 0.090003ms
+2014-09-03 20:37:52.859 photon[10959:80b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-09-03 20:37:52.860 photon[10959:80b] [CDVTimer][statusbar] 0.378013ms
+2014-09-03 20:37:52.860 photon[10959:80b] [CDVTimer][TotalPluginStartup] 1.372039ms
+2014-09-03 20:37:52.946 photon[10959:80b] Resetting plugins due to page load.
+2014-09-03 20:37:53.113 photon[10959:80b] Finished load of: file:///Users/twer/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/5564FF44-17CC-438B-9E84-677846813BBC/photon.app/www/index.html#/tab/dash
