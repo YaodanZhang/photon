@@ -1,4 +1,4 @@
-/.DS_Store
+**.DS_Store
 /.gradle
 **.iml
 **.ipr
@@ -7,3 +7,4 @@
 /gradle/
 /gradlew*
 /build
+/platforms
