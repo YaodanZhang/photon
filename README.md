@@ -16,6 +16,10 @@ $ npm install -g ionic
 Then build the project:
 
 ```bash
+$ ionic platform add ios 
+```
+
+```bash
 $ ionic build ios 
 ```
 
