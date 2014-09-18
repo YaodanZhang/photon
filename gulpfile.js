@@ -15,7 +15,7 @@ var paths = {
 gulp.task('default', ['test', 'sass']);
 
 var testFiles = [
-  'www/lib/should/should.min.js',
+  'www/lib/chai/chai.js',
   'test/**/*.spec.js'
 ];
 

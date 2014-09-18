@@ -15,7 +15,7 @@ module.exports = function(config) {
 
     // list of files / patterns to load in the browser
     files: [
-      'www/lib/should/should.min.js',
+      'www/lib/chai/chai.js',
       'test/**/*.spec.js'
     ],
 
