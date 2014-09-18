@@ -14,15 +14,16 @@ var paths = {
 
 gulp.task('default', ['test', 'sass']);
 
-var testFiles = [
-  'www/lib/chai/chai.js',
-  'test/**/*.spec.js'
-];
+gulp.task('test', ['test-unit']);
 
-gulp.task('test', function() {
-  return gulp.src(testFiles)
+gulp.task('test-unit', function() {
+  var unitTestFiles = [
+    'www/lib/chai/chai.js',
+    'test/unit/**/*.spec.js'
+  ];
+  return gulp.src(unitTestFiles)
     .pipe(karma({
-      configFile: 'karma.conf.js',
+      configFile: 'karma.unit.js',
       action: 'run'
     }))
     .on('error', function(err) {
